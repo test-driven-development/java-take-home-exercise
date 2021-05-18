@@ -12,7 +12,7 @@
 * test-driven development;
 * separation of concerns;
 * the “4 rules of simple design;”
-* a README.md of explicit instructions detailing how to build and run your exercise; and
+* a README.md of explicit instructions detailing how to compile and execute your exercise; and
 * the timeliness of the completed exercise.
 
 
